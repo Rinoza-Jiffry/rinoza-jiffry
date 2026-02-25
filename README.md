@@ -27,7 +27,7 @@
 name: Rinoza Jiffry
 role: AI Engineer / Software Engineer
 experience: 3+ years
-education: MSc Artificial Intelligence
+education: BEng(Hons) Software Engineering | MSc Applied Artificial Intelligence [Reading]
 certifications:
   - Azure Fundamentals (AZ-900)
   - Azure AI Fundamentals (AI-900)
@@ -102,18 +102,18 @@ motto: "AI + Cloud + Engineering Excellence"
 
 ---
 
-## 📊 GitHub Analytics
+<!--## 📊 GitHub Analytics
 
-<div align="center">
+// <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rinoza-Jiffry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1a2e&title_color=00d4ff&icon_color=7b61ff&text_color=e0eeff&border_radius=12" height="180"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinoza-Jiffry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1a2e&title_color=00d4ff&text_color=e0eeff&border_radius=12" height="180"/>
-</div>
+</div>-->
 
 <!-- Fallback if above doesn't load -->
-<div align="center">
+<!--<div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=Rinoza-Jiffry&cc=0d1a2e&tc=00d4ff&ic=7b61ff&bc=0d1a2e" height="180"/>
-</div>
+</div>-->
 
 ## 🔥 Contribution Streak
 
@@ -131,25 +131,25 @@ motto: "AI + Cloud + Engineering Excellence"
       <img src="https://flagcdn.com/48x36/gb.png" width="40"/><br/>
       <strong>English</strong><br/>
       <sub><i>"Hello, World!"</i></sub><br/><br/>
-      <img src="https://img.shields.io/badge/Fluent-●●●●●-flat-square?style=flat-square&color=00d4ff&labelColor=0d1a2e"/>
+      <img src="https://img.shields.io/badge/Fluent-C2%20Level-0d1a2e?style=flat-square&labelColor=00d4ff&color=0d1a2e"/>
     </td>
     <td align="center" width="150">
       <img src="https://flagcdn.com/48x36/lk.png" width="40"/><br/>
       <strong>Tamil</strong><br/>
       <sub><i>"வணக்கம்"</i></sub><br/><br/>
-      <img src="https://img.shields.io/badge/Native-●●●●●-flat-square?style=flat-square&color=00ff9d&labelColor=0d1a2e"/>
+      <img src="https://img.shields.io/badge/Native-Mother%20Tongue-0d1a2e?style=flat-square&labelColor=00ff9d&color=0d1a2e"/>
     </td>
     <td align="center" width="150">
       <img src="https://flagcdn.com/48x36/lk.png" width="40"/><br/>
       <strong>Sinhala</strong><br/>
       <sub><i>"ආයුබෝවන්"</i></sub><br/><br/>
-      <img src="https://img.shields.io/badge/Fluent-●●●●○-flat-square?style=flat-square&color=7b61ff&labelColor=0d1a2e"/>
+      <img src="https://img.shields.io/badge/Fluent-B2%20Level-0d1a2e?style=flat-square&labelColor=7b61ff&color=0d1a2e"/>
     </td>
     <td align="center" width="150">
       <img src="https://flagcdn.com/48x36/fr.png" width="40"/><br/>
       <strong>French</strong><br/>
       <sub><i>"Bonjour le monde!"</i></sub><br/><br/>
-      <img src="https://img.shields.io/badge/Learning-●●●○○-flat-square?style=flat-square&color=ff9d00&labelColor=0d1a2e"/>
+      <img src="https://img.shields.io/badge/Learning-A1%20Level-0d1a2e?style=flat-square&labelColor=ff9d00&color=0d1a2e"/>
     </td>
   </tr>
 </table>
