@@ -110,16 +110,50 @@ motto: "AI + Cloud + Engineering Excellence"
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinoza-Jiffry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1a2e&title_color=00d4ff&text_color=e0eeff&border_radius=12" height="180"/>
 </div>
 
+<!-- Fallback if above doesn't load -->
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Rinoza-Jiffry&cc=0d1a2e&tc=00d4ff&ic=7b61ff&bc=0d1a2e" height="180"/>
+</div>
+
 ## 🔥 Contribution Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rinoza-Jiffry&theme=tokyonight&hide_border=true&background=0d1a2e&ring=00d4ff&fire=7b61ff&currStreakLabel=00d4ff&sideLabels=7a9bbf&dates=7a9bbf&border_radius=12" />
 </div>
 
-## 🏆 GitHub Trophies
+## 🗣️ Languages I Speak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RinozaJiffry&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://flagcdn.com/48x36/gb.png" width="40"/><br/>
+      <strong>English</strong><br/>
+      <sub><i>"Hello, World!"</i></sub><br/><br/>
+      <img src="https://img.shields.io/badge/Fluent-●●●●●-flat-square?style=flat-square&color=00d4ff&labelColor=0d1a2e"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://flagcdn.com/48x36/lk.png" width="40"/><br/>
+      <strong>Tamil</strong><br/>
+      <sub><i>"வணக்கம்"</i></sub><br/><br/>
+      <img src="https://img.shields.io/badge/Native-●●●●●-flat-square?style=flat-square&color=00ff9d&labelColor=0d1a2e"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://flagcdn.com/48x36/lk.png" width="40"/><br/>
+      <strong>Sinhala</strong><br/>
+      <sub><i>"ආයුබෝවන්"</i></sub><br/><br/>
+      <img src="https://img.shields.io/badge/Fluent-●●●●○-flat-square?style=flat-square&color=7b61ff&labelColor=0d1a2e"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://flagcdn.com/48x36/fr.png" width="40"/><br/>
+      <strong>French</strong><br/>
+      <sub><i>"Bonjour le monde!"</i></sub><br/><br/>
+      <img src="https://img.shields.io/badge/Learning-●●●○○-flat-square?style=flat-square&color=ff9d00&labelColor=0d1a2e"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
