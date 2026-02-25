@@ -105,21 +105,21 @@ motto: "AI + Cloud + Engineering Excellence"
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RinozaJiffry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1a2e&title_color=00d4ff&icon_color=7b61ff&text_color=e0eeff&border_radius=12" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rinoza-Jiffry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1a2e&title_color=00d4ff&icon_color=7b61ff&text_color=e0eeff&border_radius=12" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinozaJiffry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1a2e&title_color=00d4ff&text_color=e0eeff&border_radius=12" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinoza-Jiffry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1a2e&title_color=00d4ff&text_color=e0eeff&border_radius=12" height="180"/>
 </div>
 
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinozaJiffry&theme=tokyonight&hide_border=true&background=0d1a2e&ring=00d4ff&fire=7b61ff&currStreakLabel=00d4ff&sideLabels=7a9bbf&dates=7a9bbf&border_radius=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rinoza-Jiffry&theme=tokyonight&hide_border=true&background=0d1a2e&ring=00d4ff&fire=7b61ff&currStreakLabel=00d4ff&sideLabels=7a9bbf&dates=7a9bbf&border_radius=12" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RinozaJiffry&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rinoza-Jiffry&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -127,7 +127,7 @@ motto: "AI + Cloud + Engineering Excellence"
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RinozaJiffry&theme=tokyo-night&bg_color=0d1a2e&color=00d4ff&line=7b61ff&point=00ff9d&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rinoza-Jiffry&theme=tokyo-night&bg_color=0d1a2e&color=00d4ff&line=7b61ff&point=00ff9d&area=true&hide_border=true" />
 </div>
 
 ---
